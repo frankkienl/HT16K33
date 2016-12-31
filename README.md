@@ -1,7 +1,7 @@
-Android Things empty project template
+Android Things HT16K33 display test
 =====================================
 
-Use this empty project as a template for your Android Things project.
+Testing the HT16K33 Display
 
 
 Pre-requisites
